@@ -1,6 +1,6 @@
 useFirebase = true;
-libPath = "src/lib/";
-basePath = "src/webapp/";
+libPath = "srclib/lib/";
+basePath = "webapp/";
 
 frontC = null, backC = null;
 divCon = null, flipB = null;

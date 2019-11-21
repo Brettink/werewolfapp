@@ -1,0 +1,34 @@
+body{
+    height: 1090px;
+}
+
+#img {
+    margin: auto;
+}
+
+#but {
+    display: inline-block;
+    width: 25%;
+    height: 98%;
+}
+
+#dc {
+    display: inline-block;
+    position: absolute;
+    padding-left: 2%;
+}
+
+#cc {
+    position: absolute;
+    top: 0;
+    z-index: 1;
+}
+
+#but{
+    display: inline-table;
+    padding: 2%;
+    border: 20px solid transparent;
+    -webkit-border-image: url(../imgs/bor.png) 50 repeat; /* Safari 3.1-5 */
+    border-image: url(../imgs/bor.png) 50 repeat;
+    margin: 1% 0% 0% 3%;
+}

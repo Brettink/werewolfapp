@@ -1,2 +1,4 @@
 srclib/*
 webapp/imgs/*
+webapp/api/config.php
+webapp/api/enum_ref.php

@@ -36,6 +36,8 @@ function init(){
     self.canCon.insertChild(canvas);
     self.divCon.insertChild(canCon);
 
+
+
 }
 x = 0; y = 0;
 function loop(){
